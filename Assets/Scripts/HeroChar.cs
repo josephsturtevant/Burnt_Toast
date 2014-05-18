@@ -2,7 +2,8 @@
 using System.Collections;
 
 public class HeroChar : MonoBehaviour {
-	
+
+	//testchange
 	public bool isKO;
 	public bool[] statusEffects = new bool[5];
 	public int tempAtkBonus, tempDefBonus;
